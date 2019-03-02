@@ -1,0 +1,2 @@
+# odoohooks
+Example Odoo Hooks
